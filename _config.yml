@@ -1,7 +1,7 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: ""
+baseurl: "/"
 url: "https://wa-canyons.github.io/"
 permalink: pretty
 markdown: kramdown
