@@ -2,15 +2,15 @@
 layout: home
 permalink: "/"
 title: "Washington Canyons"
-description: "Showcase your projects, work and portfolio with multiple layouts and styles."
-meta_description: "Jekyll Curate is a premium Jekyll blog theme"
-meta_title: Jekyll Curate
+description: "Monitoring sediment transport through Astoria & Quinault Canyons."
+meta_description: " "
+meta_title:  
 subscribe: false
 
 projects:
   heading: ""
   sub_heading: ""
-  limit: 6
+  limit: 0
   sort: date # date | weight
   view_more_button_text: ""
   view_more_button_link: ""
