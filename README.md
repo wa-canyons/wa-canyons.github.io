@@ -20,5 +20,7 @@ add file contents to cloned folder (do NOT push yet)
 
 > git push
 
-Go to github repo -> settings -> pages -> github actions -> configure
+Go to github repo -> settings -> pages -> github actions -> configure yml and save
+
+
 check progress in actions tab
