@@ -6,6 +6,6 @@ body_classes: page-contact
 
 ## Contact Info
 
-- **Email:** <a href="mailto:example@example.com">example@example.com</a>
-- **Phone:** +61 0417 123 XXX
-- **Address:** Clem Jones Promenade, South Brisbane QLD 4101
+- **Email:** <a href="mailto:elahr@uw.edu">elahr@uw.edu</a>
+- **Phone:** +61 612 719 8048
+- **Address:** 1501 Boat St. NE, Seattle WA 98195

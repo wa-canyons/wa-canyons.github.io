@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "What is the Jamstack?"
-date: 2019-08-10
-authors: ["Mike Vance"]
-categories: ["Branding"]
-description: Branding is an intrinsic part of your companies success, learn why your brand matters.
-thumbnail: "/assets/images/gen/blog/blog-5-thumbnail.webp"
-image: "/assets/images/gen/blog/blog-5.webp"
-weight: 2
+title: "SKQ202305S - Deployment Cruise"
+date: 2023-03-13T05:22:42Z
+authors: ["Evan Lahr"]
+categories: ["coring", "instruments"]
+description: "6 moorings and 20 cores in 6 days."
+thumbnail: "/assets/images/gen/blog/blog-1-thumbnail.webp"
+image: "/assets/images/gen/blog/blog-1.webp"
 ---
 
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.

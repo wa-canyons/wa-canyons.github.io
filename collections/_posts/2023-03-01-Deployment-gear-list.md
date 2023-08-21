@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Designing Your Brand"
-date: 2018-12-20T11:02:00Z
-authors: ["Mike Vance"]
-tags: ["Tutorials", "Premimum"]
-categories: ["Branding"]
-description: Branding is an intrinsic part of your companies success, learn why your brand matters.
-thumbnail: "/assets/images/gen/blog/blog-3-thumbnail.webp"
-image: "/assets/images/gen/blog/blog-3.webp"
+title: "Deployment gear lists"
+date: 2023-03-01T10:20:00Z
+categories: ["instruments", "timeseries"]
+description: "Making sure your website runs fast and loads quickly is a fundamental part of the web design and seo process."
+thumbnail: "/assets/images/gen/blog/blog-2-thumbnail.webp"
+image: "/assets/images/gen/blog/blog-2.webp"
 ---
 
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.

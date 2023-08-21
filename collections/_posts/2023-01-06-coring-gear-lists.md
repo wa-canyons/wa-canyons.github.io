@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Security first with static websites"
-date: 2019-11-29
-authors: ["Sage Kirk", "Mike Vance"]
-categories: ["Hosting", "Development"]
-description: "Hosting your website as a static site will improve performance and improve security."
-thumbnail: "/assets/images/gen/blog/blog-6-thumbnail.webp"
-image: "/assets/images/gen/blog/blog-6.webp"
+title: "Coring gear lists"
+date: 2023-01-06
+authors: ["Evan Lahr"]
+categories: ["coring"]
+description: Branding is an intrinsic part of your companies success, learn why your brand matters.
+thumbnail: "/assets/images/gen/blog/blog-5-thumbnail.webp"
+image: "/assets/images/gen/blog/blog-5.webp"
+weight: 2
 ---
 
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.

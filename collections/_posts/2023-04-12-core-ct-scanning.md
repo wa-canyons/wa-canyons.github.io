@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Learn how to market your next startup"
-date: 2020-01-15
-authors: ["Mike Vance"]
-categories: ["Branding"]
-description: Marketing a startup isn't easy, it takes a unique set of skills and a whole lot of determination
-thumbnail: "/assets/images/gen/blog/blog-8-thumbnail.webp"
-image: "/assets/images/gen/blog/blog-8.webp"
+title: "CT Scanning at the USGS"
+date: 2023-04-12T13:06:00Z
+authors: ["Sage Kirk"]
+categories: ["Development", "Javascript"]
+description: A trip to the Santa Cruz USGS core lab.
+thumbnail: "/assets/images/gen/blog/blog-4-thumbnail.webp"
+image: "/assets/images/gen/blog/blog-4.webp"
 ---
 
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
