@@ -9,6 +9,15 @@ thumbnail: "/assets/images/gen/blog/blog-9-thumbnail.webp"
 image: "/assets/images/gen/blog/blog-9.webp"
 ---
 
+
+
+<iframe width="560"
+        height="315"
+        src="https://www.youtube.com/embed/QH2-TGUlwu4"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen></iframe>
+
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
 Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.
