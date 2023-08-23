@@ -1,46 +1,30 @@
 ---
 layout: basic
-title: "About Us"
+title: "Meet the team."
 date: 2018-11-28T15:15:34+10:00
 permalink: "/about/"
-description: "Business plan hackathon handshake responsive web design."
-image: "/assets/images/gen/content/content-5.webp"
+description: " "
+image: "/assets/images/team/people.png"
 ---
+ This project is a collaboration between the University of Washington and the USGS office in Santa Cruz. Jenna Hill (USGS) and Andrea Ogston (UW) are the principal investigators, supported by Kurt Rosenberger (USGS), and Evan Lahr (UW). Our team has expertise in fluid mechanics, physical oceanography, and marine geology.
 
-# Creating Modern Websites
+# Our research goals.
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+### i. Should you trust a turbidite?
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+Submarine canyon turbidite stratigraphy in WA is used to infer seismic recurrence (1,2,3). This interpretation is often made under the assumption that turbidity flows are solely earthquake-driven sediment failures (e.g., no floods, storms, or other processes create turbidites). New evidence suggests canyons are more active than scientists initially believed (4,5,6,7,8). We want to know if this "highstand-dormant" conceptual model is valid offshore Washington, and we are collecting brand new turbidite records to explore turbidite sedimentology, age, and chemical composition.
 
-## What is Web Design?
+### ii. What remobilizes canyon sediment?
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+Turbidity currents need sediment, but how is that sediment remobilized? Ocean currents, river discharge, and wave events are known to trigger turbidity currents in sites throughout the globe (9,10,11,12). Canyon axis hydrodynamics are notoriously difficult to predict and model (9,10,11,12), meaning that in order to catch these processes in action, we must deploy sensors to monitor canyons directly. Our coordinated sensor deployment will record the minute-by-minute, cm-scale current structure and bottom boundary layer across multiple canyon systems.
+
+### iii. Can shear stress alone trigger turbidity currents?
+
+Near-bed shear stress is one of the fundamental mechanisms of sediment resuspension. A site-specific knowledge of sediment resuspension threshold is a prerequisite to an understanding of turbidity current initiation. This relationship has not yet been published. A variety of seafloor characteristics, including the grain size distribution, porosity, and biogenic constituents can exert primary control on sediment resuspension. As part of this project, we aim to measure the seabed shear-resuspension parameters across 
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
 
-## Front-end Development
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+## Our funding sources
 
-> As a UX designer, you should consider the Why, What and How of product use.
-
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
-
-## Design Systems
-
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
-
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
-
-![Design In Figma]({{ "/assets/images/gen/content/content-2.webp" | relative_url }})
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+The research featured in this project is funded primarily through NSF Award Number 2147983 and by several funding sources within the USGS and University of Washington.
