@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-title: "Washington Canyons"
+title: "Washington Canyons - UW Sed Dynamics Group"
 description: "Monitoring sediment transport through Astoria & Quinault Canyons."
 meta_description: " "
 meta_title:  
