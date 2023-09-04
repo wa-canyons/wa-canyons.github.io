@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RC102 - shipek grabs on the Columbia River Bar"
+title: "RC102 - seabed samples from the Columbia River Bar"
 date: 2023-08-18
 categories: ["coring"]
 description: "We've definitely seen better weather."
