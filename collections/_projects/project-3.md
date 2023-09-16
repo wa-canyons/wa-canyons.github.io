@@ -1,7 +1,7 @@
 ---
 layout: project-left
-title: "Cubist Urban Home"
-description: "A spectacular building, designed by the Valencian architect Santiago Calatrava."
+title: "Should you trust a turbidite?"
+description: "What the modern turbidite record says about runout length"
 date: 2018-12-20
 weight: 2
 thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.webp"
@@ -15,8 +15,4 @@ gallery:
   - image: "/assets/images/gen/projects/project-3-7.webp"
 ---
 
-Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
-
-The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
-
-Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication. Ancient urban architecture was preoccupied with building religious structures and buildings symbolizing the political power of rulers until Greek and Roman architecture shifted focus to civic virtues.
+Submarine canyon turbidite stratigraphy in WA is used to infer seismic recurrence (1,2,3). This interpretation is often made under the assumption that turbidity flows are solely earthquake-driven sediment failures (e.g., no floods, storms, or other processes create turbidites). New evidence suggests canyons are more active than scientists initially believed (4,5,6,7,8). We want to know if this "highstand-dormant" conceptual model is valid offshore Washington, and we are collecting brand new turbidite records to explore turbidite sedimentology, age, and chemical composition.

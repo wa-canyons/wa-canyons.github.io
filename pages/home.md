@@ -1,8 +1,9 @@
 ---
 layout: home
 permalink: "/"
-title: "Washington Canyons - UW Sed Dynamics Group"
-description: "Monitoring sediment transport through Astoria & Quinault Canyons."
+title: "Washington margin canyon flushing"
+description: "A hydrodynamic and sedimentological study of ocean process-driven sediment transport in submarine canyons along the northern Cascadia Margin."
+
 meta_description: " "
 meta_title:  
 subscribe: false

@@ -1,7 +1,7 @@
 ---
 layout: project-top
-title: "Subway"
-description: "An open source machine learning library written in Python"
+title: "The morphological control of sediment transport and accumulation"
+description: "Proximal canyons with the same source, yet different morphology"
 date: 2018-12-20
 weight: 4
 thumbnail: "/assets/images/gen/projects/project-4-6-thumbnail.webp"

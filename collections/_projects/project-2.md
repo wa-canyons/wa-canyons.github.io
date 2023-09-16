@@ -1,7 +1,7 @@
 ---
 layout: project-right
-title: "Brutalist Office Building"
-description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
+title: "Can shear stress alone trigger turbidity currents?"
+description: "Comparing the measured relationships of shear-stress and sediment resuspension to peak shear stress events"
 date: 2018-11-03T10:20:00Z
 weight: 1
 thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
@@ -17,8 +17,5 @@ gallery:
 gallery_limit: 2
 ---
 
-Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+Near-bed shear stress is one of the fundamental mechanisms of sediment resuspension. A site-specific knowledge of sediment resuspension threshold is a prerequisite to an understanding of turbidity current initiation. This relationship has not yet been published. A variety of seafloor characteristics, including the grain size distribution, porosity, and biogenic constituents can exert primary control on sediment resuspension. As part of this project, we aim to measure the seabed shear-resuspension parameters across...
 
-The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
-
-Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication. Ancient urban architecture was preoccupied with building religious structures and buildings symbolizing the political power of rulers until Greek and Roman architecture shifted focus to civic virtues.

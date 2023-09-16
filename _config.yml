@@ -108,8 +108,8 @@ logo:
   logo_image_mobile: assets/images/logo/logo-mobile.png
   logo_image_invert: assets/images/logo/logo-invert.png
   logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.png
-  logo_image_desktop_height: "28px"
-  logo_image_desktop_width: "28px"
+  logo_image_desktop_height: "48px"
+  logo_image_desktop_width: "48px"
   logo_image_mobile_height: "28px"
   logo_image_mobile_width: "28px"
   show_logo_image_on_mobile: true
@@ -139,7 +139,7 @@ disqus:
   shortname: "" # Your disqus shortcode. leave this blank to disable comments globally
 
 mailchimp:
-  form_action_url: https://zerostatic.us13.list-manage.com/subscribe/post?u=675276692aebec1c007f8156d&amp;id=3e3da720c2
+  form_action_url: 
 
 contact_form: 
   use_netlify_form: false
@@ -154,7 +154,7 @@ menu:
 footer:
   enable_footer: true # show/hide the entire footer
   footer_title: "follow our other projects"
-  footer_description: "https://sites.uw.edu/sediment/home/"
+  footer_description: "https://sites.uw.edu/sediment/home/"  
   enable_social_media_icons: true
   enable_contact_details: false
   enable_menu_footer_primary: false
