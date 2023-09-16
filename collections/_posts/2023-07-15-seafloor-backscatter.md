@@ -2,8 +2,6 @@
 layout: post
 title: "Seafloor Backscatter"
 date: 2023-07-15
-authors: ["Sage Kirk", "Mike Vance"]
-categories: ["Hosting", "Development"]
 description: "Mulibeam from public repository to geotiff"
 thumbnail: "/assets/images/gen/blog/blog-6-thumbnail.webp"
 image: "/assets/images/gen/blog/blog-6.webp"
