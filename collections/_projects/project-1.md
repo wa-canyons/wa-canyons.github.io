@@ -1,12 +1,12 @@
 ---
 layout: project # alternative layouts: project, project-left, project-right, project-top
-title: "sediment core event beds asdf"
+title: "sediment core event beds"
 description: "test of title features"
 date: 2018-12-20
 weight: 3
 thumbnail: "/assets/images/gen/projects/project-2-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-2-1.webp"
-categories: ["Development"]
+categories: ["coring"]
 client: "Brisbane City Council"
 role: "Building Designer"
 gallery:

@@ -4,6 +4,7 @@ title: "Swift Responder Piston Coring"
 date: 2023-07-04
 description: "[video] 10-meter sediment records from 3 kilometers below the sea surface"
 thumbnail: "/assets/images/gen/blog/Swiftresponder_thumbnail.png"
+categories: ["coring"]
 ---
 
 The USGS Pacific Coastal and Marine Science Center is fresh off an 11-day cruise aboard the Eclipse Group's new vessel, the Swift Responder. This 196 foot vessel was originally used in marine spill mitigation and remediation, but its spacious back deck also makes it a suitable vessel for the large  coring apparatus required to collect 10 meter-long cores from the continental shelf, submarine canyons, and deformation front offshore northern Washington. The cruise enjoyed calm seas, a fun and hardworking crew, and plenty of brand new core data for the team to analyze. 

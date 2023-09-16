@@ -3,7 +3,7 @@ layout: post
 title: "Terrestrial vs. marine organic carbon"
 date: 2023-06-01T09:49:03Z
 authors: ["Mike Vance"]
-categories: ["Branding"]
+categories: ["coring"]
 description: Branding is an intrinsic part of your companies success, learn why your brand matters.
 thumbnail: "/assets/images/gen/blog/blog-18-thumbnail.webp"
 image: "/assets/images/gen/blog/blog-18.webp"

@@ -154,7 +154,7 @@ menu:
 footer:
   enable_footer: true # show/hide the entire footer
   footer_title: "follow our other projects"
-  footer_description: "lab webpage: https://sites.uw.edu/sediment/home/"
+  footer_description: "https://sites.uw.edu/sediment/home/"
   enable_social_media_icons: true
   enable_contact_details: false
   enable_menu_footer_primary: false

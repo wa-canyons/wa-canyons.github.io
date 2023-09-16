@@ -3,7 +3,7 @@ layout: post
 title: "Check out this debris block core"
 date: 2023-06-01
 authors: ["Mike Vance"]
-categories: ["Branding"]
+categories: ["coring"]
 description: An unreal core from the floor of Astoria Canyon.
 thumbnail: "/assets/images/gen/blog/blog-8-thumbnail.webp"
 image: "/assets/images/gen/blog/blog-8.webp"

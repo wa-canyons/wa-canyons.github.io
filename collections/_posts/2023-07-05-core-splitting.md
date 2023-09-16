@@ -4,6 +4,7 @@ title: "Core splitting: a family affair"
 date: 2023-06-15
 description: "[video] Splitting, imaging, & subsampling with curators and canines."
 thumbnail: "/assets/images/gen/blog/dog.png"
+categories: ["coring"]
 ---
 
 Our haul of new core samples from Sikuliaq cruise SKQ202305S was recently subsampled at the OSU Marine Geology Repository, a geology repository in Corvallis Oregon. Or is it Core-vallis? The locals are probably sick of that one...

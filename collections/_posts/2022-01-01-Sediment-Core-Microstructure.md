@@ -3,6 +3,7 @@ layout: post
 title: "Sediment Core Microstructure"
 date: 2023-01-01
 description: "[HowTo] From diffusion embedding to digital imagery"
+categories: ["coring"]
 thumbnail: "/assets/images/gen/blog/turb_xsec.png"
 image: "/assets/images/gen/blog/turb_xsec.png"
 ---
