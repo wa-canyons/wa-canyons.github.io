@@ -1,7 +1,7 @@
 ---
 layout: basic
 title: "Meet the team."
-date: 2018-11-28T15:15:34+10:00
+date: 2018-11-28
 permalink: "/about/"
 description: " "
 image: "/assets/images/team/people.png"
@@ -21,9 +21,6 @@ Turbidity currents need sediment, but how is that sediment remobilized? Ocean cu
 ### iii. Can shear stress alone trigger turbidity currents?
 
 Near-bed shear stress is one of the fundamental mechanisms of sediment resuspension. A site-specific knowledge of sediment resuspension threshold is a prerequisite to an understanding of turbidity current initiation. This relationship has not yet been published. A variety of seafloor characteristics, including the grain size distribution, porosity, and biogenic constituents can exert primary control on sediment resuspension. As part of this project, we aim to measure the seabed shear-resuspension parameters across 
-
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
-
 
 ## Our funding sources
 
