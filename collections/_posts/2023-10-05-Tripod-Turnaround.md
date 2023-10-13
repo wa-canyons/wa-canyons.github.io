@@ -3,7 +3,7 @@ layout: post
 title: "Tripod Turnaround"
 date: 2023-10-05
 description: "[video] Recovery of a tripod"
-thumbnail: "/assets/images/gen/blog/shipek.png"
+thumbnail: "/assets/images/gen/blog/tripod_1.png"
 categories: ["instruments"]
 ---
 
