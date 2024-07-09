@@ -6,7 +6,7 @@ date: 2018-12-20
 weight: 2
 thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-3-1.webp"
-client: "Region of Valencia"
+client: "What the modern turbidite record says about runout length"
 categories: ["Development"]
 role: "Building Designer"
 gallery:

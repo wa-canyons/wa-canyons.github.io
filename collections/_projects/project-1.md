@@ -7,7 +7,7 @@ weight: 3
 thumbnail: "/assets/images/gen/projects/project-2-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-2-1.webp"
 categories: ["coring"]
-client: "Brisbane City Council"
+client: "Understanding storm event forcing and response in canyons 150 km apart"
 role: "Building Designer"
 gallery:
   - image: "/assets/images/gen/projects/project-2-1.webp"

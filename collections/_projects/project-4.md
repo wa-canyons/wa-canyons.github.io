@@ -6,7 +6,7 @@ date: 2018-12-20
 weight: 4
 thumbnail: "/assets/images/gen/projects/project-4-6-thumbnail.webp"
 image: "/assets/images/gen/projects/project-4-1.webp"
-client: "RGA Agency"
+client: "Proximal canyons with the same source, yet different morphology"
 categories: ["Development"]
 role: "Building Designer"
 gallery:
